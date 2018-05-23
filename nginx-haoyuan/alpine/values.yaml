@@ -1,0 +1,6 @@
+image:
+  repository: reg.dhdc.com/dhc_cloud/alpine
+  tag: 3.5
+  pullPolicy: IfNotPresent
+
+restartPolicy: Never

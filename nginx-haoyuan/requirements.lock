@@ -1,0 +1,9 @@
+dependencies:
+- name: wordpress
+  repository: https://kubernetes.oss-cn-hangzhou.aliyuncs.com/charts
+  version: 0.8.8
+- name: alpine
+  repository: file://alpine
+  version: 0.1.0
+digest: sha256:f3be9460f5eb3e085a0ad057074fe1086c39c862207c266437941e90a8dfe0a6
+generated: 2018-05-11T15:19:24.763961283+08:00

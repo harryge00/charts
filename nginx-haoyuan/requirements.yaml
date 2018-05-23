@@ -1,7 +1,7 @@
 dependencies:
-- name: simpledebian
-  version: 0.7.0
-  repository: local
-- name: simplenginx
-  version: 0.7.0
-  repository: local
+- name: wordpress
+  version: 0.8.8
+  repository: "https://kubernetes.oss-cn-hangzhou.aliyuncs.com/charts"
+- name: alpine
+  version: 0.1.1
+  repository: "file://alpine"
